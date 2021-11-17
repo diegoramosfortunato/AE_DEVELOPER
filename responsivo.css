@@ -1,0 +1,54 @@
+@media(max-width:568px){
+
+
+    .menu_nav a{
+       font-size: .6em;
+    }
+
+    .intro_txt h1{
+        font-size: 1.4em;
+        margin: 20px;
+    }
+
+    .intro_txt p{
+        font-size: .9em;
+    }
+
+    .intro_img{
+        width: 90%;
+        margin-right: 20px;
+    }
+
+    .button{
+        padding: 10px;
+        font-size: .8em;
+        
+    }
+
+    .nossos_servicos_img{
+        margin: 0 auto;
+    }
+
+    .nossos_servicos_button{
+        margin:0  auto;
+        padding: 10px;
+        font-size: .8em;
+        
+    }
+
+    .sobre h2{
+      font-size: 1.5em;
+    }
+
+    .sobre p {
+        font-size: .8em;
+    }
+
+    .footer{
+        font-size: .6em;
+    }
+    
+
+
+}
+

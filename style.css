@@ -130,6 +130,7 @@ a{
    transition: all .5s;
    cursor: pointer;
    font-family: 'Mochiy Pop P One', sans-serif;
+   
 }
 
 .button:hover{
@@ -141,6 +142,7 @@ a{
 .intro_img{
    
    filter: drop-shadow(15px 10px 5px rgba(0,0,0,.5));
+   
    
 }
 
@@ -214,7 +216,7 @@ a{
 
 .sobre{
    max-width: 960px;
-   margin: 0 180px;
+   margin: 0 auto;
    padding: 15px 0;
    display: flex;
    flex-wrap: wrap;
@@ -259,5 +261,3 @@ a{
    color: white;
    text-align: center;
 }
-
-

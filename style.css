@@ -247,10 +247,12 @@ a{
    font-size: 1em;
    color: white;
    font-family: 'Mochiy Pop P One', sans-serif;
+   text-align: justify all;
 }
 
 .sobre img{
    filter: drop-shadow(15px 10px 5px rgba(0,0,0,.5));
+   
 }
 
 

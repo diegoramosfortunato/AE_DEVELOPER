@@ -1,6 +1,10 @@
 @media(max-width:568px){
 
 
+   .logo{
+       margin: 0 auto;
+   }
+
     .menu_nav a{
        font-size: .6em;
     }
@@ -25,8 +29,11 @@
         
     }
 
-    .nossos_servicos_img{
+    .nossos_servicos img{
         margin: 0 auto;
+        text-align: center;
+        
+      
     }
 
     .nossos_servicos_button{
@@ -42,6 +49,7 @@
 
     .sobre p {
         font-size: .8em;
+        text-align: justify;
     }
 
     .footer{
@@ -51,4 +59,19 @@
 
 
 }
+
+
+@media(max-width:667px){
+    .nossos_servicos img{
+       text-align: center;
+       margin: 0 auto;
+      
+    }
+
+
+}
+
+
+
+
 
